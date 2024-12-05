@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Currently working on - SEO Web Dev & Cybersecurity 
-- 👯 Looking to collaborate on - Cybersecurity 
-- 💬 Ask me about - SEO Web Dev & Cybersecurity 
-- 📫 How to reach me: [idolwave.org](https://idolwave.org/)
-- <p align="left">
+🔭 Currently working on - SEO Web Dev & Cybersecurity 
+👯 Looking to collaborate on - Cybersecurity 
+💬 Ask me about - SEO Web Dev & Cybersecurity 
+📫 How to reach me: [idolwave.org](https://idolwave.org/)
+<p align="left">
   <img src="https://img.icons8.com/ios-filled/50/FFFFFF/github.png" alt="GitHub logo" style="width:20px; height:20px; margin-right:5px;" />
   <img src="https://komarev.com/ghpvc/?username=idolwave&label=Profile%20views&color=BC01FF&style=flat" alt="idolwave" />
 </p>
