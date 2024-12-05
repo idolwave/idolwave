@@ -1,5 +1,5 @@
 ## Hi there 👋
-<p>Welcome to</p>> 
+<p>Welcome to</p> 
 <h1>idol wave</h1>
 
 
