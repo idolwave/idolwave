@@ -22,7 +22,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about - SEO Web Dev & Cybersecurity 
 - 📫 How to reach me: [idolwave.org](https://idolwave.org/)
 
-![idol-wave-cat](https://cdn.pixabay.com/animation/2024/08/07/00/47/00-47-30-174_512.gif)
+<div style="background-color: gray; padding: 10px; display: inline-block;">
+  <img src="https://cdn.pixabay.com/animation/2024/08/07/00/47/00-47-30-174_512.gif" alt="idol-wave-cat">
+</div>
+
 
 
 
