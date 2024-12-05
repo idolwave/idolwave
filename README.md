@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about - SEO Web Dev & Cybersecurity 
 - 📫 How to reach me: [idolwave.org](https://idolwave.org/)
 
-![idol-wave-cat](https://cdn.pixabay.com/animation/2024/08/07/00/47/00-47-30-174_512.gif)
+![idol-wave-cat]([https://cdn.pixabay.com/animation/2024/08/07/00/47/00-47-30-174_512.gif](https://www.canva.com/design/DAGYae2Qza0/Mj-4PLnjXFpR2SLIuVzifQ/edit))
 
 
 
