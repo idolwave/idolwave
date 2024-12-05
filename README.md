@@ -1,5 +1,5 @@
 ## Hi there 👋
-Thi is idol wave 🌊
+Thi is <h1>idol wave 🌊</h1>
 
 
 <!--
