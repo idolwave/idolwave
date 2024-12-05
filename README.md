@@ -1,6 +1,5 @@
 ## Hi there 👋
-Thi is idol wave 🌊 
-
+Thi is idol wave 🌊
 
 
 <!--
