@@ -1,5 +1,6 @@
 ## Hi there 👋
-Thi is <h1>idol wave 🌊</h1>
+<p>Welcome to</p>> 
+<h1>idol wave</h1>
 
 
 <!--
