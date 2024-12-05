@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+
+
 <!--
 **idolwave/idolwave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 Currently working on ...SEO Web Dev & Cybersecurity 
+- 👯 Looking to collaborate on ...Cybersecurity 
+- 💬 Ask me about ...SEO Web Dev & Cybersecurity 
+- 📫 How to reach me: ...https://idolwave.org/
+
+
+
+
+
+
+
+
