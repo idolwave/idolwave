@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Currently working on - Web Development ( UI / UX - SEO ) 
-- 👯 Looking to collaborate on - Web Development ( UI / UX - SEO )
-- 💬 Ask me about - Web Development ( UI / UX - SEO )  
+- 🔭 Currently working on - Web Development (SEO-UI/UX) 
+- 👯 Looking to collaborate on - Web Development (SEO-UI/UX)
+- 💬 Ask me about - Web Development (SEO-UI/UX)  
 - 📫 How to reach me: [idolwave.org](https://idolwave.org/)
 
 - <p align="left">
