@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Currently working on - SEO Web Development & Cybersecurity 
-- 👯 Looking to collaborate on - Cybersecurity
-- 💬 Ask me about - SEO Web Development & Cybersecurity  
+- 🔭 Currently working on - SEO Web Development & UI / UX 
+- 👯 Looking to collaborate on - SEO Web Development & UI / UX
+- 💬 Ask me about - SEO Web Development & UI / UX  
 - 📫 How to reach me: [idolwave.org](https://idolwave.org/)
 
 - <p align="left">
